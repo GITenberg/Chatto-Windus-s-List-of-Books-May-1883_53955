@@ -1,0 +1,26 @@
+_repo: Chatto-Windus-s-List-of-Books-May-1883_53955
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Chatto & Windus (Firm)
+    aliases:
+    - Chatto and Windus (Firm)
+    - Windus, Chatto &
+    gutenberg_agent_id: '6326'
+    url: http://www.gutenberg.org/2009/agents/6326
+description: ''
+gutenberg_issued: '2017-01-13'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '53955'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Chatto & Windus (Firm) -- Catalogs'
+- !lcc 'Z'
+- !lcsh 'Publishers'' catalogs -- England -- London'
+- GITenberg
+title: Chatto & Windus's List of Books, May 1883
+url: http://www.gutenberg.org/ebooks/53955
